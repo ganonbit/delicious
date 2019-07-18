@@ -1,5 +1,7 @@
 ## What is this?
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/reesecode/delicious.svg)](https://greenkeeper.io/)
+
 Just you wait folks!
 
 ## Sample Data
